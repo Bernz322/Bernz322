@@ -1,6 +1,7 @@
 ![MasterHead](https://scontent.fdvo2-1.fna.fbcdn.net/v/t1.6435-9/94262717_3442535975780119_6382975306331848704_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeFZhMDhyH6aqLRxg1seGt3c8yFYMD2b0B7zIVgwPZvQHn8TdRUul7SHEF2cjeQMT4I-1XO9nomBcL97Jo_Fqp8o&_nc_ohc=t3PFhsMrEHIAX9B4FD3&_nc_ht=scontent.fdvo2-1.fna&oh=00_AT-eTcJlcHjT5w0xV5oO-RjklOX0laS0BQHe_L-WSkTvRQ&oe=620CCCCE)
 <h1 align="center">Hey!, I'm Celestial</h1>
 <h3 align="center">Just your average fullstack developer.</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Bernz322&label=Profile%20views&color=0e75b6&style=flat" alt="Bernz322" /> </p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 - 🔭 I’m currently working on **a Secret Project**
