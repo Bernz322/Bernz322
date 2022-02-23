@@ -3,11 +3,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bernz322&label=Profile%20views&color=0e75b6&style=flat" alt="bernz322" /> </p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-- 🔭 I’m currently working on **a Secret Project**
+- 🔭 I’m currently working on **my Portfolio and Undergraduate Thesis**
 
-- 🌱 I’m currently learning **MERN Stack**
-
-- ⚡ Fun fact **Learning is not fun**
+- 🌱 I’m currently enhancing my knowledge on **MERN Stack**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
