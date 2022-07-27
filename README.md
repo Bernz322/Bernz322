@@ -1,7 +1,6 @@
 <h1 align="center">Hey! I'm Jeffrey Bernadas</h1>
 <h3 align="center">Just your average fullstack developer.</h3>
-<h4 align="center"><a href='https://www.jeffreybernadas.tech/' target="blank">Portfolio</a></h4>
-<h5 align="center"><a href='https://www.jeffreybernadas.tech/static/media/jeffrey-a4.e3ea73d231604e4fbcad.pdf' target="blank">Resume</a></h5>
+<h4 align="center"><a href='https://www.jeffreybernadas.tech/' target="blank">Portfolio</a> | <a href='https://www.jeffreybernadas.tech/static/media/jeffrey-a4.e3ea73d231604e4fbcad.pdf' target="blank">Resume</a></h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bernz322&label=Profile%20views&color=0e75b6&style=flat" alt="bernz322" /> </p>
 
 <h3 align="center">Connect with me:</h3>
