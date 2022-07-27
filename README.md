@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/brnz6000" target="blank"><img src="https://img.shields.io/twitter/follow/brnz6000?logo=twitter&style=for-the-badge" alt="brnz6000" /></a> </p>
 
-- 👨‍💻 All of my projects are available at my [https://www.jeffreybernadas.tech/](Portfolio)
+- 👨‍💻 All of my projects are available at: [Portfolio](https://www.jeffreybernadas.tech/)
 
-- 📄 Know about my experiences: [https://www.jeffreybernadas.tech/static/media/jeffrey-a4.e3ea73d231604e4fbcad.pdf](Resume)
+- 📄 Know about my experiences: [Resume](https://www.jeffreybernadas.tech/static/media/jeffrey-a4.e3ea73d231604e4fbcad.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
