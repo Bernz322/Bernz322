@@ -9,7 +9,6 @@
 <a href="https://linkedin.com/in/jeffreybernadas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeffreybernadas" height="30" width="40" /></a>
 <a href="https://fb.com/userjeb64839928383894949qwerty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="userjeb64839928383894949qwerty" height="30" width="40" /></a>
 <a href="https://instagram.com/brnzzzzzzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brnzzzzzzz" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/bernz322" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bernz322" height="30" width="40" /></a>
 </p>
 
 <h4 align="center">Technologies:</h4>
