@@ -1,9 +1,9 @@
 <h1 align="center">Hey! I'm Jeffrey Bernadas</h1>
-<h3 align="center">I‘m an aspiring Software Engineer based in the Philippines. I can do full-stack web applications and love building stuffs in the internet from scratch.</h3>
+<h3 align="center">I‘m a Full Stack Developer based in the Philippines. I can do full-stack web applications and love building stuffs in the internet from scratch.</h3>
 <h4 align="center"><a href='https://www.jeffreybernadas.tech/' target="blank">Portfolio</a> | <a href='https://www.jeffreybernadas.tech/static/media/jeffrey-a4.e3ea73d231604e4fbcad.pdf' target="blank">Resume</a></h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bernz322&label=Profile%20views&color=0e75b6&style=flat" alt="bernz322" /> </p>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Say hi and connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/brnz6000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brnz6000" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jeffreybernadas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeffreybernadas" height="30" width="40" /></a>
