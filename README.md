@@ -19,6 +19,8 @@
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux)
 ![Styled-Components](https://img.shields.io/badge/-styled--components-000000?style=flat&logo=styled-components)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-000000?style=flat&logo=tailwind-css)
+![Storybook](https://img.shields.io/badge/-Storybook-000000?style=flat&logo=storybook)
+![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)
 ![Loopback 5](https://img.shields.io/badge/-Loopback-000000?style=flat&logo=loopback)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express.js)
