@@ -45,3 +45,18 @@
   <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernz322&layout=compact&langs_count=8&theme=onedark&hide_border=true&hide=java,dart&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117" />
    <img width="450" src="https://github-readme-stats.vercel.app/api/wakatime?username=bernz322&layout=compact&langs_count=10&theme=onedark&hide_border=true&hide=java,dart&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117&v=2" />
 </div>
+
+<h4>What I am currently up to:</h4>
+<div>
+   <li>Learning about libraries and component creations including theming.</li>
+   <li>Creating personal reusable components and hooks.</li>
+   <li>Creating a personal Microfrontend App that will serve my created components and hooks.</li>
+   <li>With the idea above, I am also trying to make my components available as a library for non-microfrontend apps. <em>Yeah, another average React Library</em> 😄.</li>
+   <li>Documenting every components I make with Storybook 7.0 and Figma.</li>
+   <li>Grinding to not be called an <strong>average</strong> Fullstack Developer.</li>
+</div>
+
+<h4>Future project plans:</h4>
+<div>
+   <p>Unfortunately, all Javascript projects I have here are considered deprecated and will not be updated anymore. The good thing is that they will all be migrated to Module Federation and utilize microfrontends. This will make all my projects to have a centralized UI design, functionality and practices.</p>
+</div>
