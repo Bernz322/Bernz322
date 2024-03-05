@@ -39,6 +39,9 @@
 ![Microfrontend](https://img.shields.io/badge/-Micro_Frontend-000000?style=flat&logo=MicroStrategy)
 ![React Native](https://img.shields.io/badge/-React_Native-000000?style=flat&logo=react)
 ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
+![Nginx](https://img.shields.io/badge/-Nginx-000000?style=flat&logo=nginx)
+![Jira](https://img.shields.io/badge/-Jira-000000?style=flat&logo=jira)
 ![Arduino](https://img.shields.io/badge/-Arduino-000000?style=flat&logo=arduino)
 ![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-000000?style=flat&logo=raspberrypi)
 
