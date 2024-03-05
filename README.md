@@ -26,7 +26,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)
 ![Loopback 5](https://img.shields.io/badge/-Loopback-000000?style=flat&logo=loopback)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-000000?style=flat&logo=sequelize)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
