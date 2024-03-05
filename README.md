@@ -34,6 +34,7 @@
 ![Sequelize](https://img.shields.io/badge/-Sequelize-000000?style=flat&logo=sequelize)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
+![Swagger](img.shields.io/badge/-Swagger-000000?style=flat&logo=swagger)
 ![Webpack 5](https://img.shields.io/badge/-Webpack-000000?style=flat&logo=webpack)
 ![Microfrontend](https://img.shields.io/badge/-Micro_Frontend-000000?style=flat&logo=MicroStrategy)
 ![React Native](https://img.shields.io/badge/-React_Native-000000?style=flat&logo=react)
